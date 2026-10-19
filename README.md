@@ -8,8 +8,8 @@ This Repository is meant to be a place to practice and apply data science concep
 ###  SalesData.ipynb: Found the dataset on Kaggle 
 
 [https://www.kaggle.com/datasets/kandeeldev/messy-e-commerce-sales-data]
-- Finished cleaning the rows on 10/5/26
-- Will start working on analysis !
+- Performing analysis on the dataset, understanding the flow of sales for this imaginary company
+
 ## Study -
 ### AirPassangers_TimeSeries.ipynb: Time Series Model
 
