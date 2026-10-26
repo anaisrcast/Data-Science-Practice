@@ -2,16 +2,24 @@
 
 This Repository is meant to be a place to practice and apply data science concepts
 
-# Currently Working:
 
 ## Practice - 
-###  SalesData.ipynb: Found the dataset on Kaggle 
+###  SalesData.ipynb: ** COMPLETED **
+Found the dataset on Kaggle 
 
 [https://www.kaggle.com/datasets/kandeeldev/messy-e-commerce-sales-data]
-- Performing analysis on the dataset, understanding the flow of sales for this imaginary company
+- Standardization of Column and Rows, Data Type conversions, Handled Missing/Null Values, Identified and reconciled outlier and anomolies
+
+### Bakery_Sales.ipynb: ** IN PROGRESS **
+
+Found the dataset on Kaggle
+
+[https://www.kaggle.com/datasets/sdcloud/historical-bakery-sales-dataset]
+- Handled Missing/Null Values
+- ** Next Steps ** - Deciding if ALL columns are needed for analysis or if they can be dropped
 
 ## Study -
 ### AirPassangers_TimeSeries.ipynb: Time Series Model
 
 [https://towardsdatascience.com/time-series-forecasting-with-arima-sarima-and-sarimax-ee61099e78f6/]
-- Currently working on analysis with visualizations
+- Learning the differences in how time series models are typically analyzed
