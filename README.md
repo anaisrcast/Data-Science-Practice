@@ -15,8 +15,9 @@ Found the dataset on Kaggle
 
 [https://www.kaggle.com/datasets/sdcloud/historical-bakery-sales-dataset]
 - Handled Missing/Null Values
-- Started to perform preliminary analysis on the bakery dataset, getting to know my data better
-- ** Next Steps ** - Deciding if ALL columns are needed for analysis or if they can be dropped
+- Performed preliminary analysis on the bakery dataset, getting to know my data better
+- Dropped initial columns that repeat the same data and will not be used in analysis
+- ** Next Steps ** - Performing analysis, looking at what may affect sales 
 
 ## Study -
 ### AirPassangers_TimeSeries.ipynb: Time Series Model
